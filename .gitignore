@@ -1,6 +1,7 @@
 dist
 django_media_tree.egg-info
 django-media-tree.komodoproject
+.idea
 _thumbs
 *.pyc
 *.pyo
