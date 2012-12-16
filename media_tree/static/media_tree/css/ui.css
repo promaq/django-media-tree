@@ -306,3 +306,16 @@ ul.node-tools li:last-child {
     -webkit-box-shadow: 0px 2px 5px #666;
     box-shadow: 0px 2px 5px #666;
 }
+
+.qq-uploader {
+    display: block;
+    height: 14px;
+    padding: 0.1em 28px 0.1em 8px;
+    float: left;
+    color: white;
+    background: url("../../admin/img/tooltag-add.gif") no-repeat scroll right top #999999;
+}
+
+.qq-uploader:hover {
+    background: url("../../admin/img/tooltag-add_over.gif") no-repeat scroll right top #5B80B2;
+}
