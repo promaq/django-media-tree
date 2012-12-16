@@ -73,7 +73,7 @@ The name of the folder under your ``MEDIA_ROOT`` where cached versions of media
 files, e.g. thumbnails, are stored.
 """
 
-MEDIA_TREE_STATIC_SUBDIR = 'media_tree'
+MEDIA_TREE_STATIC_SUBDIR = 'media_tree/'
 
 MEDIA_TREE_ICON_DIRS = getattr(settings, 'MEDIA_TREE_ICON_DIRS', (
     'media_tree/img/icons/mimetypes',
